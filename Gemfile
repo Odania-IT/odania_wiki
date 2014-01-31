@@ -13,8 +13,9 @@ gemspec
 # To use debugger
 # gem 'debugger'
 
+gem 'mongoid', github: 'mongoid/mongoid'
+
 group :development, :test do
-	gem 'mongoid', github: 'mongoid/mongoid'
 	gem 'factory_girl_rails'
 	gem 'minitest'
 	gem 'minitest-reporters'

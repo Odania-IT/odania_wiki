@@ -1,11 +1,11 @@
-$:.push File.expand_path("../lib", __FILE__)
+$:.push File.expand_path('../lib', __FILE__)
 
 # Maintain your gem's version:
-require "odania_wiki/version"
+require 'odania_wiki/version'
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-	s.name = "odania_wiki"
+	s.name = 'odania_wiki'
 	s.version = OdaniaWiki::VERSION
 	s.authors = ['Mike Petersen']
 	s.email = ['mike@odania-it.de']
