@@ -1,5 +1,0 @@
-= OdaniaWiki
-
-{<img src="https://travis-ci.org/Odania-IT/odania_wiki.png?branch=master" alt="Build Status" />}[https://travis-ci.org/Odania-IT/odania_wiki]
-
-This project rocks and uses MIT-LICENSE.
